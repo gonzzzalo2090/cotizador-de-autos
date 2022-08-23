@@ -1,5 +1,5 @@
 
-//Constructores - prototypes
+//Constructores - prototype
 function Seguro(marca, year, tipo){
     this.marca = marca;
     this.year = year;
